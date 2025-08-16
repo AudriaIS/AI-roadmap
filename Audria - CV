@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CV of Audria, showcasing skills, experience, and education.">
+    <meta name="keywords" content="Audria, CV, skills, experience, education">
+    <meta name="author" content="Audria Yoachum">
+    <meta property="og:title" content="Audria - CV">
+    <meta property="og:description" content="Explore the CV of Audria, highlighting skills and experience.">
+    <meta property="og:type" content="website">
+    <link rel="stylesheet" href="styles.css">
+    <title>Audria - CV</title>
+</head>
+<body>
+    <header>
+        <h1>Audria</h1>
+        <p>Email: audria.yoachum@gmail.com</p>
+        <p>Phone: (713) 416-1371</p>
+    </header>
+
+    <section>
+        <h2>Education</h2>
+        <p>Degree, Major, University, Year</p>
+    </section>
+
+    <article>
+        <h3>Job Title</h3>
+        <p>Company Name, Year - Year</p>
+        <p>Responsibilities and achievements...</p>
+    </article>
+
+    <article>
+        <h3>Job Title</h3>
+        <p>Company Name, Year - Year</p>
+        <p>Responsibilities and achievements...</p>
+    </article>
+
+    <footer>
+        <p>References available upon request.</p>
+    </footer>
+</body>
+</html>
