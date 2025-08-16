@@ -12,6 +12,12 @@
     <link rel="stylesheet" href="styles.css">
     <title>Audria - CV</title>
     <style type="text/css">
+
+      body {
+            border: 1px solid black;
+            margin: 20px;
+            padding: 20px;
+      }
       p { 
         font-size:14px;
       }
@@ -27,10 +33,18 @@
         color: #0047AB;
         font-size:14px;
       }
+      .line {
+      width: 75%;
+      height: 1px;
+      background-color: #000000;
+      margine: 0 auto;
+      }
+      
     </style>
 
 </head>
 <body>
+<div class="line"></div>
     <header>
         <h1>Audria</h1>
         <p>Email: audria.yoachum@gmail.com</p>
