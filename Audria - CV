@@ -11,6 +11,24 @@
     <meta property="og:type" content="website">
     <link rel="stylesheet" href="styles.css">
     <title>Audria - CV</title>
+    <style type="text/css">
+      p { 
+        font-size:14px;
+      }
+      h1 {
+      font-size: 18px;
+      font-weight:bold;
+      }
+      h2 {
+        color: #3f9b0b;
+        font-size:14px;
+      }
+      h3 {
+        color: #0047AB;
+        font-size:14px;
+      }
+    </style>
+
 </head>
 <body>
     <header>
